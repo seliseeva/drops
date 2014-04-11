@@ -1,0 +1,7 @@
+{behavior:url(js/PIE.htc);position:relative;}
+.latest_figure_bg{
+	display: none;
+}
+.latest_img_link:hover.latest_figure_bg{
+  opacity: 1;
+}
